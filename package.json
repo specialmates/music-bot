@@ -1,9 +1,9 @@
 {
   "name": "music-bot",
   "main": "index.js",
-  "author": "ZerioDev",
-  "version": "5.0.0",
-  "repository": "https://github.com/ZerioDev/Music-bot.git",
+  "author": "birajrai",
+  "version": "1.0",
+  "repository": "https://github.com/birajrai/music-bot.git",
   "description": "A complete code to download for a music bot. Using a module (discord-player).",
   "scripts": {
     "start": "node index.js"
