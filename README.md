@@ -81,6 +81,6 @@ debug, see number of voice connections.
 
 ### 🏓 Utilities (to change the code)
 
-Find all the functions available on the official code [right here](https://github.com/Androz2091/discord-player).
+Find all the functions available on the official code [right here](https://github.com/birajrai/music-bot).
 
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
